@@ -1,5 +1,6 @@
-# Adaline-Algorithm
+# Adaline-Algorithm.md
 Adaline Algorithm - Artificial Neural Network
+
 Berikut adalah Implementasi Kasus sederhana Jaringan Adaline (Adaptive Linear Neuron) dengan menggunakan Python.
 
 ## Metode
